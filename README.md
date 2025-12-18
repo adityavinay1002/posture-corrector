@@ -21,6 +21,3 @@
 - **Tailwind CSS**: Modern, responsive styling.
 - **Framer Motion**: Smooth, beautiful animations.
 
-## Credits
-
-**Made by Subham**
